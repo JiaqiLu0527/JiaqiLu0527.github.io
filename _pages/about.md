@@ -1,6 +1,6 @@
 ---
 permalink: /[Jiaqi Lu](https://jiaqilu0527.github.io/)
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jiaqi Lu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
