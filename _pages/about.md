@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postgraduate student at [Mathematical Institute](https://www.maths.ox.ac.uk/, the [University of Oxford](https://www.ox.ac.uk/).
+I am a postgraduate student at [Mathematical Institute](https://www.maths.ox.ac.uk/), the [University of Oxford](https://www.ox.ac.uk/).
 
 A data-driven personal website
 ======
