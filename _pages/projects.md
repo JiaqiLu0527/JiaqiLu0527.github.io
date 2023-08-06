@@ -15,7 +15,7 @@ Keywords: proof complexity, pseudorandomness, natural proofs, and bounded arithm
 
 Information-Theoretic Approximation of Large Markov Chains
 ======
-Supervisor: [Prof. George Karakostas](http://www.cas.mcmaster.ca/~gk/)
+Supervisor: [Prof. George Karakostas](http://www.cas.mcmaster.ca/~gk/)  
 Keywords: approximation algorithm, convex optimization, Markov chain, clustering
 * Studied, both theoretically and experimentally, methods of MC reduction, formulated them as optimization problems, and then developed provably good algorithms for solving the latter
 * Explored the connections of the MC reduction problem to Machine Learning
@@ -24,7 +24,7 @@ Keywords: approximation algorithm, convex optimization, Markov chain, clustering
 
 Recursive Teaching Dimension Versus VC Dimension
 ======
-Supervisor: [Prof. Xingwu Liu](https://people.ucas.ac.cn/~xingwu)
+Supervisor: [Prof. Xingwu Liu](https://people.ucas.ac.cn/~xingwu)  
 Keywords: combinatorics, computational learning theory, VC dimension
 * Studied the quantitative relation between the recursive teaching dimension(RTD) and the well-known learning complexity measure VC dimension(VCD)
 * Studied the Book Introductory Combinatorics by Richard A. Brualdi
