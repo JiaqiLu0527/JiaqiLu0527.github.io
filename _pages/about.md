@@ -12,7 +12,11 @@ I am a postgraduate student at [Mathematical Institute](https://www.maths.ox.ac.
 
 I have a broad interest in theoretical computer science. Currently, I am interested in proof complexity and pseudorandomness.  
 
-I am advised by [Dr. Jan Pich](https://users.ox.ac.uk/~coml0742/) and [Prof. Rahul Santhanam](https://www.cs.ox.ac.uk/people/rahul.santhanam/), working on my master's dissertation focusing on proof complexity and pseudorandomness. In Imperial College London, I will be advised by [Prof. Iddo Tzameret](https://www.doc.ic.ac.uk/~itzamere/index.html), working on the project: Limitations on Learning Algorithms and Provability. 
+I am very fortunate to be advised by [Dr. Jan Pich](https://users.ox.ac.uk/~coml0742/) and [Prof. Rahul Santhanam](https://www.cs.ox.ac.uk/people/rahul.santhanam/), working on my master's dissertation on proof complexity and pseudorandomness. In Imperial College London, I will be advised by [Prof. Iddo Tzameret](https://www.doc.ic.ac.uk/~itzamere/index.html), working on the project: Limitations on Learning Algorithms and Provability.  
+
+You can find my CV here:[Jiaqi Lu's Curriculum Vitae](../assets/CV.pdf).  
+
+[Email](Jiaqi.Lu@maths.ox.ac.uk)/[Github](https://github.com/JiaqiLu0527)
 
 A data-driven personal website
 ======
