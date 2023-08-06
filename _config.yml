@@ -247,7 +247,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _project
+  # _projects
   - scope:
       path: ""
       type: projects
