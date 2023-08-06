@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /[Jiaqi Lu](https://jiaqilu0527.github.io/)
 title: "Jiaqi Lu"
 excerpt: "About me"
 author_profile: true
