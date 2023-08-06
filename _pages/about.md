@@ -10,7 +10,9 @@ redirect_from:
 
 I am a postgraduate student at [Mathematical Institute](https://www.maths.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/), majoring in Mathematics and Foundations of Computer Science([MFoCS](https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematics-and-foundations-computer-science)). Previously, I was an undergraduate student at [School of Computer Science](https://scs.bupt.edu.cn/), Beijing University of Posts and Telecommunications([BUPT](https://www.bupt.edu.cn/)).  I will be a postgraduate student at [Department of Computing](https://www.imperial.ac.uk/computing/), [Imperial College London](https://www.imperial.ac.uk/), majoring in [MRes AI and Machine Learning](https://www.imperial.ac.uk/computing/current-students/pg-info/mres-ai-and-machine-learning/).  
 
-I have a broad interest in theoretical computer science. Currently, I am interested in proof complexity and pseudorandomness.
+I have a broad interest in theoretical computer science. Currently, I am interested in proof complexity and pseudorandomness.  
+
+I am advised by [Dr. Jan Pich](https://users.ox.ac.uk/~coml0742/) and [Prof. Rahul Santhanam](https://www.cs.ox.ac.uk/people/rahul.santhanam/), working my master's dissertation focusing on proof complexity and pseudorandomness.
 
 A data-driven personal website
 ======
