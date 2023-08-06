@@ -3,7 +3,7 @@ permalink: /projects/
 title: "Projects"
 ---
 
-Connection between Rudich's and Razborob's conjectures 
+Connection between Rudich's and Razborov's conjectures 
 ======
 Supervisor: [Dr. Jan Pich](https://users.ox.ac.uk/~coml0742/) and [Prof. Rahul Santhanam](https://www.cs.ox.ac.uk/people/rahul.santhanam/)  
 Keywords: proof complexity, pseudorandomness, natural proofs, and bounded arithmetic
