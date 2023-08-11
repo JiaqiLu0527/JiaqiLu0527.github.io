@@ -25,5 +25,5 @@ Recursive Teaching Dimension Versus VC Dimension
 ======
 Supervisor: [Prof. Xingwu Liu](https://people.ucas.ac.cn/~xingwu)  
 Keywords: combinatorics, computational learning theory, VC dimension
-* Studied the quantitative relation between the recursive teaching dimension(RTD) and the well-known learning complexity measure VC dimension(VCD)
+* Studied the quantitative relation between the recursive teaching dimension(RTD) and the well-known learning complexity measure VC dimension(VCD): The main question in our research is whether RTD can be linearly bounded by VCD. The best result so far is that RTD is quadratically bounded by VCD. We investigate and construct some special cases.
 * Studied the Book Introductory Combinatorics by Richard A. Brualdi
