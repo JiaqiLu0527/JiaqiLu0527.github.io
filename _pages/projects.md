@@ -5,7 +5,7 @@ title: "Projects"
 
 Limitations on Learning Algorithms and Provability
 ======
-Supervisor: [Prof. Iddo Tzameret](https://www.doc.ic.ac.uk/~itzamere/index.html)
+Supervisor: [Prof. Iddo Tzameret](https://www.doc.ic.ac.uk/~itzamere/index.html)  
 Keywords: Algebraic Complexity, proof complexity and learning
 * Connection between the automatability of Algebraic proof system and Learning
 
