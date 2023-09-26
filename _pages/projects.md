@@ -3,6 +3,12 @@ permalink: /projects/
 title: "Projects"
 ---
 
+Limitations on Learning Algorithms and Provability
+======
+Supervisor: [Prof. Iddo Tzameret](https://www.doc.ic.ac.uk/~itzamere/index.html)
+Keywords: Algebraic Complexity, proof complexity and learning
+* Connection between the automatability of Algebraic proof system and Learning
+
 
 Connection between Rudich's and Razborov's conjectures ([Master's dissertation in Oxford](../assets/Oxford_Master_thesis.pdf))
 ======
