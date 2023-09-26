@@ -18,4 +18,4 @@ I was very fortunate to be advised by [Dr. Jan Pich](https://users.ox.ac.uk/~com
 
 You can find my CV here: [Jiaqi Lu's Curriculum Vitae](../assets/CV.pdf).  
 
-[Email](Jiaqi.Lu@maths.ox.ac.uk) / [Github](https://github.com/JiaqiLu0527)
+[Email](mailto:Jiaqi.Lu@maths.ox.ac.uk) / [Github](https://github.com/JiaqiLu0527)
