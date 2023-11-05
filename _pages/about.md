@@ -14,7 +14,7 @@ I received my first master's degree at [Mathematical Institute](https://www.math
 
 I have a broad interest in theoretical computer science, especially complexity theory.  
 
-I was very fortunate to be advised by [Dr. Jan Pich](https://users.ox.ac.uk/~coml0742/) and [Prof. Rahul Santhanam](https://www.cs.ox.ac.uk/people/rahul.santhanam/), working on my master's dissertation on proof complexity and pseudorandomness. In Imperial College London, I am advised by [Prof. Iddo Tzameret](https://www.doc.ic.ac.uk/~itzamere/index.html), working on the project: Limitations on Learning Algorithms and Provability.  
+I was very fortunate to be advised by [Dr. Jan Pich](https://users.ox.ac.uk/~coml0742/) and [Prof. Rahul Santhanam](https://www.cs.ox.ac.uk/people/rahul.santhanam/), working on my master's dissertation on proof complexity and pseudorandomness. In Imperial College London, I am advised by [Prof. Iddo Tzameret](https://www.doc.ic.ac.uk/~itzamere/index.html), working on the project: Limitations on Learning Algorithms and Provability (Actually, I am working on proof complexity, especially algebraic proof system).  
 
 You can find my CV here: [Jiaqi Lu's Curriculum Vitae](../assets/CV.pdf).  
 
