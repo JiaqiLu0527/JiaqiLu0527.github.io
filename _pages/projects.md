@@ -8,7 +8,7 @@ Limitations on Learning Algorithms and Provability
 Supervisor: [Prof. Iddo Tzameret](https://www.doc.ic.ac.uk/~itzamere/index.html)  
 Keywords: Algebraic Complexity, proof complexity and learning
 * Connection between the automatability of Algebraic proof system (Ideal Proof System) and Learning
-* In [ST21], Tzameret and Santhanam proved that VP $\neq$ VNP iff there does not exist a short IPS refutation of "IPS cannot efficiently refute VP $\neq$ VNP (perm is not in VP)". Could we extend this result to VP $\neq$ VNP iff for all polynomial f there does not exist a short IPS refutation of "IPS cannot efficiently refute f is not in VP "
+* In [ST21], Tzameret and Santhanam proved that VP $\neq$ VNP iff there does not exist a short IPS refutation of "IPS cannot efficiently refute VP $\neq$ VNP (perm is not in VP)". Could we extend this result to VP $\neq$ VNP iff for all polynomial f there does not exist a short IPS refutation of "IPS cannot efficiently refute f is not in VP "?
 
 Connection between Rudich's and Razborov's conjectures ([Master's dissertation in Oxford](../assets/Oxford_Master_thesis.pdf))
 ======
